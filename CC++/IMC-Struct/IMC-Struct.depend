@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1661630728 source:c:\users\lukas\onedrive\documents\codes\poo\cc++\imc-struct\main.cpp
+	<iostream>
+	"queue.h"
+	"pessoa.h"
+
+1661630750 c:\users\lukas\onedrive\documents\codes\poo\cc++\imc-struct\queue.h
+	"pessoa.h"
+	<iostream>
+	<string>
+
+1661626956 c:\users\lukas\onedrive\documents\codes\poo\cc++\imc-struct\pessoa.h
+	<stdlib.h>
+
